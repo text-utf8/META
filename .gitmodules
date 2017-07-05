@@ -1,0 +1,18 @@
+[submodule "text"]
+	path = text
+	url = ../text.git
+[submodule "aeson"]
+	path = aeson
+	url = ../aeson.git
+[submodule "attoparsec"]
+	path = attoparsec
+	url = ../attoparsec.git
+[submodule "double-conversion"]
+	path = double-conversion
+	url = ../double-conversion.git
+[submodule "hashable"]
+	path = hashable
+	url = ../hashable.git
+[submodule "text-show"]
+	path = text-show
+	url = ../text-show.git

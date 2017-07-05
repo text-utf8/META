@@ -1,0 +1,6 @@
+packages: ./text
+optional-packages: ./hashable
+optional-packages: ./attoparsec
+optional-packages: ./aeson
+optional-packages: ./text-show
+optional-packages: ./double-conversion
