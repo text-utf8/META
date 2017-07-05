@@ -1,18 +1,24 @@
 [submodule "text"]
 	path = text
 	url = ../text.git
+        branch = utf8
 [submodule "aeson"]
 	path = aeson
 	url = ../aeson.git
+        branch = utf8
 [submodule "attoparsec"]
 	path = attoparsec
 	url = ../attoparsec.git
+        branch = utf8
 [submodule "double-conversion"]
 	path = double-conversion
 	url = ../double-conversion.git
+        branch = utf8
 [submodule "hashable"]
 	path = hashable
 	url = ../hashable.git
+        branch = utf8
 [submodule "text-show"]
 	path = text-show
 	url = ../text-show.git
+        branch = utf8
